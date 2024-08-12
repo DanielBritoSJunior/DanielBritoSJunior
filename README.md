@@ -2,7 +2,7 @@
 
 ### :computer: Mídias sociais:
 [<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/linkedin.svg" width="50">](www.linkedin.com/in/daniel-brito-da-silva-júnior-20b83b315) 
-[<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/facebook.svg" width="50">](https://www.facebook.com/DanielBritodaSJunior) 
+[<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/facebooo.svg" width="50">](https://www.facebook.com/DanielBritodaSJunior) 
 [<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/instagram.svg" width="50">](https://www.instagram.com/daniel.junior_9)
 
 <!---
