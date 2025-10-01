@@ -1,9 +1,13 @@
 ## Olá, Meu nome é @DanielBritoSJunior
+Eu sou Desenvolvedor Full-stack com foco em Node e React. Estou sempre buscando oportunidades de trabalho e gosto de usar o GitHub para manter meus projetos pessoais e treinar. Atualmente, estou aprendendo sobre Angular.
+
+
+### 🌐 Conecte-se comigo:
 
 ### :computer: Mídias sociais:
-[<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/linkedin.svg" width="50">](www.linkedin.com/in/daniel-brito-da-silva-júnior-20b83b315) 
-[<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/facebook.svg" width="50">](https://www.facebook.com/DanielBritodaSJunior) 
-[<img src="https://raw.githubusercontent.com/DanielBritoSJunior/DanielBritoSJunior/main/instagram.svg" width="50">](https://www.instagram.com/daniel.junior_9)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-brito-da-silva-júnior-20b83b315)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/DanielBritodaSJunior)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.junior_9)
 
 
 ### :bar_chart: Github Stats
