@@ -1,5 +1,5 @@
 ## Olá, Meu nome é @DanielBritoSJunior
-Eu sou Desenvolvedor Full-stack com foco em Node e React. Estou sempre buscando oportunidades de trabalho e gosto de usar o GitHub para manter meus projetos pessoais e treinar. Atualmente, estou aprendendo sobre Angular.
+Eu sou Desenvolvedor Full-stack com foco em Node e React. Estou sempre buscando oportunidades de trabalho e gosto de usar o GitHub para manter meus projetos pessoais e treinar. Atualmente, faço projetos usando Node e React.
 
 
 ### 🌐 Conecte-se comigo:
